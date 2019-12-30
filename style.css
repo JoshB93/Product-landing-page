@@ -255,7 +255,7 @@ nav {
     padding: 5px;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 650px) {
     #features .desc {
       width: 100%;
       text-align: center;
@@ -334,7 +334,7 @@ nav {
     transition: background-color 1s;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 650px) {
     #pricing {
         flex-direction: column;
     }
